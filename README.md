@@ -29,7 +29,7 @@ Bu proje, **RPL (Düşük Güçlü ve Kayıplı Ağlar için IPv6 Yönlendirme P
 ### Kurulum ve Çalıştırma
 1.  **Depoyu Klonlayın:**
     ```bash
-    git clone [https://github.com/MNibrasElhuseyin/RPL-IoT-Analysis.git](https://github.com/MNibrasElhuseyin/RPL-IoT-Analysis.git)
+    git clone https://github.com/MNibrasElhuseyin/RPL-IoT-Analysis.git
     cd RPL-IoT-Analysis
     ```
 
