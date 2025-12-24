@@ -1,0 +1,9 @@
+build/
+*.o
+*.z1
+*.sky
+*.map
+*.a
+symbols.c
+symbols.h
+obj_*/
